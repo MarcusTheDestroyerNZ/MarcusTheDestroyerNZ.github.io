@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto Slab&display=swap');
 body {
 	font-family: cursive,sans-serif;
 	margin: 10px;
@@ -16,12 +17,14 @@ div {
 	width: 100%;
   }
 h1 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;
 	font-size: 75px;
 	color: #830000;
 	margin: 60px 0 0 0;
 }
 h2 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;
 	color: #830000;
 	font-size: 25px;
@@ -29,6 +32,7 @@ h2 {
 
 }
 h3 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	float: right;
 	text-align: right;
 	color: #830000;
@@ -36,12 +40,14 @@ h3 {
 	margin: center;
 }
 h4 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;
 	font-size: 50px;
 	color: #830000;
 	margin: 60px 0 0 0;
 }
 p {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	border-radius: 12px;
 	color: rgba(255,255,255,1);
 	background: black;
@@ -96,6 +102,7 @@ li {
 	float: left;
 }
 li a {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	display: block;
 	color: white;
 	font-size: 25px;
