@@ -99,3 +99,8 @@ li a {
 li a:hover {
 	background-color: #410000;
 }
+img {
+    display: block;
+    width: 1100px;
+    margin: auto;
+  }
