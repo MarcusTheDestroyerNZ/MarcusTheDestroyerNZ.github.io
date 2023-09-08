@@ -1,5 +1,5 @@
 body {
-	font-family: helvetica, sans-serif;
+	font-family: cursive,sans-serif;
 	margin: 10px;
 	background: black;
 }
@@ -92,15 +92,15 @@ li {
 li a {
 	display: block;
 	color: white;
+	font-size: 25px;
 	text-align: center;
-	padding: 14px 30px;
+	padding: 14px 30px 20px 30px;
 	text-decoration: none;
 }
 li a:hover {
-	background-color: #410000;
+	background-color: #5e0000;
 }
 img {
     display: block;
-    width: 1100px;
     margin: auto;
   }
