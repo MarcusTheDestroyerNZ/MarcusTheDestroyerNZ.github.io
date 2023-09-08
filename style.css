@@ -18,12 +18,12 @@ div {
 h1 {
 	text-align: center;
 	font-size: 75px;
-	color: white;
+	color: red;
 	margin: 60px 0 0 0;
 }
 h2 {
 	text-align: center;
-	color: white;
+	color: red;
 	font-size: 25px;
 	margin: 10px 50px 20px 0;
 
@@ -31,7 +31,7 @@ h2 {
 h3 {
 	float: right;
 	text-align: right;
-	color: white;
+	color: red;
 	font-size: 25px;
 	margin: center;
 }
@@ -76,42 +76,6 @@ p {
 }
 small {
 	opacity: 0;
-}
-.lion {
-	background-image: url("https://ichef.bbci.co.uk/news/976/cpsprodpb/12845/production/_108254857_gettyimages-933863084.jpg.webp");
-}
-.giraffe {
-	background-image: url("https://cc-prod.scene7.com/is/image/CCProdAuthor/how-to-draw-a-giraffe_P2_720x420?$pjpeg$&jpegSize=200&wid=720");
-}
-.redPanda {
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e6/Red_Panda_%2824986761703%29.jpg");
-}
-.komodoDragon {
-	background-image: url("https://images.immediate.co.uk/production/volatile/sites/23/2023/03/Komodo-dragon-guide-3fe3d9d.jpg?quality=90&webp=true&resize=1000,667");
-}
-.elephant {
-	background-image: url("https://blog.humanesociety.org/wp-content/uploads/2019/02/ELEPHANTS-K6C5EP_401765-1-1220x813.jpg");
-}
-.cheetah {
-	background-image: url("https://img.freepik.com/free-photo/majestic-cheetah-staring-into-sunset-beauty-generated-by-ai_188544-34630.jpg?t=st=1693907985~exp=1693911585~hmac=81f0af5c962805399645822cff469dae258f763189b8a2ba7ad208ae6e67d7a2&w=1480");
-}
-.capybara {
-	background-image: url("https://cdn.britannica.com/94/194294-138-B2CF7780/overview-capybara.jpg");
-}
-.chimpanzee {
-	background-image: url("https://files.worldwildlife.org/wwfcmsprod/images/HERO_Chimpanzee_Uganda/hero_full/5sgqq60jdd_Medium_WW215321.jpg");
-}
-.gorilla {
-	background-image: url("https://files.worldwildlife.org/wwfcmsprod/images/Mountain_Gorilla_Silverback_WW22557/hero_full/cg47pknak_Mountain_Gorilla_Silverback_WW22557.jpg");
-}
-.sloth {
-	background-image: url("https://files.worldwildlife.org/wwfcmsprod/images/Sloth_3_12_2014/hero_full/95bi8m2u6i_sloth__c__Jorge_Salas_International_Expeditions.JPG");
-}
-.tuatara {
-	background-image: url("https://i.guim.co.uk/img/media/20ac58d24f6f1c8336fda41a10277facd81fad80/0_493_6440_3864/master/6440.jpg?width=620&dpr=1&s=none");
-}
-.turtle {
-	background-image: url("https://files.worldwildlife.org/wwfcmsprod/images/Sea_Turtle_Hol_Chan_Marine_Reserve_WW1105958/hero_full/p35wuxwr3_Sea_Turtle_Hol_Chan_Marine_Reserve_WW1105958.jpg");
 }
 ul {
 	list-style-type: none;
