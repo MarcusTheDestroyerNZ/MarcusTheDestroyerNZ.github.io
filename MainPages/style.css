@@ -78,6 +78,19 @@ section {
     color: white;
     margin-bottom: 10px;
 }
+.hero-text h3 {
+    font-family: 'permanent Marker', curdive;
+    font-size: 50px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+}
+.hero-text h6 {
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 10px;
+}
 .hero-text p {
     color: white;
     font-size: 15px;
