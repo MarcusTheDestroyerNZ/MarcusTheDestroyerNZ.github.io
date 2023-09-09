@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto Slab&display=swap');
+body {
+	font-family: cursive,sans-serif;
+	margin: 10px;
+	background: black;
+}
+div {
+	height: 200px;
+	background-size: cover;
+	position: relative;
+	border-radius: 12px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+  }
+h1 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	font-size: 75px;
+	color: #830000;
+	margin: 60px 0 0 0;
+}
+h2 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	color: #830000;
+	font-size: 25px;
+	margin: 30px 70px 30px 70px;
+
+}
+h3 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	float: right;
+	text-align: right;
+	color: #830000;
+	font-size: 25px;
+	margin: center;
+}
+h4 {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+	font-size: 50px;
+	color: #830000;
+	margin: 60px 0 0 0;
+}
+p {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	border-radius: 12px;
+	color: rgba(255,255,255,1);
+	background: black;
+	background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
+	padding: 10px;
+	line-height: 28px;
+	text-align: justify;
+	position: absolute;
+	bottom: 0;
+	margin: 0;
+	height: 30px;
+	transition: height .5s;
+}
+.leftdiv {
+	position: absolute;
+	left: 0px;
+	width: 525px;
+	height: 480px;
+	margin: 20px;
+}
+.middlediv {
+	float: right;
+	width: 525px;
+	height: 480px;
+	margin: 20px;
+}
+.rightdiv {
+	float: left;
+	width: 525px;
+	height: 480px;
+	margin: 20px;
+}
+.names {
+	float: left;
+	width: 520px;
+	height: 150px;
+	margin: 20px;
+}
+small {
+	opacity: 0;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgb(131, 0, 0);
+	border-radius: 12px;
+	line-clamp: 100px;
+}
+li {
+	float: left;
+}
+li a {
+	font-family: "Roboto Slab" , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	display: block;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	padding: 14px 30px 20px 30px;
+	text-decoration: none;
+}
+li a:hover {
+	background-color: #5e0000;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+}
+.navbar a {
+	float: left;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+} 
+.dropdown {
+	float: left;
+	overflow: hidden;
+}
+.dropdown .dropbtn {
+	font-size: 16px;  
+	border: none;
+	outline: none;
+	color: white;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+	margin: 0;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+	background-color: red;
+}
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+ }
+ .dropdown-content a {
+	float: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+}
+ .dropdown-content a:hover {
+	background-color: #ddd;
+} 
+.dropdown:hover .dropdown-content {
+	display: block;
+ }
